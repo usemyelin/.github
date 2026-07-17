@@ -1,4 +1,6 @@
-![](https://github.com/usemyelin/.github/blob/main/assets/banner.png)
+<p align="center">
+  <img src="https://github.com/usemyelin/.github/blob/main/assets/banner.png" width="620">
+</p>
 
 Myelin é um framework de **inferência** (não treino). Em vez de exportar um modelo treinado por um caminho automático e frágil, o dev **reescreve o modelo** no SDK Myelin.
 
